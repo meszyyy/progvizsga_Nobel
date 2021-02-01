@@ -1,0 +1,214 @@
+﻿1901:Emil Adolf von Behring
+1902:Ronald Ross
+1903:Niels Ryberg Finsen
+1904:Ivan Petrovich Pavlov
+1905:Robert Koch
+1906:Santiago Ramón y Cajal
+1906:Camillo Golgi
+1907:Charles Louis Alphonse Laveran
+1908:Paul Ehrlich
+1908:Ilya Ilyich Mechnikov
+1909:Emil Theodor Kocher
+1910:Albrecht Kossel
+1911:Allvar Gullstrand
+1912:Alexis Carrel
+1913:Charles Robert Richet
+1914:Robert Bárány
+1919:Jules Bordet
+1920:Schack August Steenberg Krogh
+1922:Otto Fritz Meyerhof
+1922:Archibald Vivian Hill
+1923:John James Rickard Macleod
+1923:Frederick Grant Banting
+1924:Willem Einthoven
+1926:Johannes Andreas Grib Fibiger
+1927:Julius Wagner-Jauregg
+1928:Charles Jules Henri Nicolle
+1929:Sir Frederick Gowland Hopkins
+1929:Christiaan Eijkman
+1930:Karl Landsteiner
+1931:Otto Heinrich Warburg
+1932:Edgar Douglas Adrian
+1932:Sir Charles Scott Sherrington
+1933:Thomas Hunt Morgan
+1934:William Parry Murphy
+1934:George Richards Minot
+1934:George Hoyt Whipple
+1935:Hans Spemann
+1936:Otto Loewi
+1936:Sir Henry Hallett Dale
+1937:Albert von Szent-Györgyi Nagyrápolt
+1938:Corneille Jean François Heymans
+1939:Gerhard Domagk
+1943:Edward Adelbert Doisy
+1943:Henrik Carl Peter Dam
+1944:Herbert Spencer Gasser
+1944:Joseph Erlanger
+1945:Sir Howard Walter Florey
+1945:Ernst Boris Chain
+1945:Sir Alexander Fleming
+1946:Hermann Joseph Muller
+1947:Bernardo Alberto Houssay
+1947:Gerty Theresa Cori, née Radnitz
+1947:Carl Ferdinand Cori
+1948:Paul Hermann Müller
+1949:Antonio Caetano de Abreu Freire Egas Moniz
+1949:Walter Rudolf Hess
+1950:Philip Showalter Hench
+1950:Tadeus Reichstein
+1950:Edward Calvin Kendall
+1951:Max Theiler
+1952:Selman Abraham Waksman
+1953:Fritz Albert Lipmann
+1953:Hans Adolf Krebs
+1954:Frederick Chapman Robbins
+1954:Thomas Huckle Weller
+1954:John Franklin Enders
+1955:Axel Hugo Theodor Theorell
+1956:Dickinson W. Richards
+1956:Werner Forssmann
+1956:André Frédéric Cournand
+1957:Daniel Bovet
+1958:Joshua Lederberg
+1958:Edward Lawrie Tatum
+1958:George Wells Beadle
+1959:Arthur Kornberg
+1959:Severo Ochoa
+1960:Peter Brian Medawar
+1960:Sir Frank Macfarlane Burnet
+1961:Georg von Békésy
+1962:Maurice Hugh Frederick Wilkins
+1962:James Dewey Watson
+1962:Francis Harry Compton Crick
+1963:Andrew Fielding Huxley
+1963:Alan Lloyd Hodgkin
+1963:Sir John Carew Eccles
+1964:Feodor Lynen
+1964:Konrad Bloch
+1965:Jacques Monod
+1965:André Lwoff
+1965:François Jacob
+1966:Charles Brenton Huggins
+1966:Peyton Rous
+1967:George Wald
+1967:Haldan Keffer Hartline
+1967:Ragnar Granit
+1968:Marshall W. Nirenberg
+1968:Har Gobind Khorana
+1968:Robert W. Holley
+1969:Salvador E. Luria
+1969:Alfred D. Hershey
+1969:Max Delbrück
+1970:Julius Axelrod
+1970:Ulf von Euler
+1970:Sir Bernard Katz
+1971:Earl W. Sutherland, Jr.
+1972:Rodney R. Porter
+1972:Gerald M. Edelman
+1973:Nikolaas Tinbergen
+1973:Konrad Lorenz
+1973:Karl von Frisch
+1974:George E. Palade
+1974:Christian de Duve
+1974:Albert Claude
+1975:Howard Martin Temin
+1975:Renato Dulbecco
+1975:David Baltimore
+1976:D. Carleton Gajdusek
+1976:Baruch S. Blumberg
+1977:Rosalyn Yalow
+1977:Andrew V. Schally
+1977:Roger Guillemin
+1978:Hamilton O. Smith
+1978:Daniel Nathans
+1978:Werner Arber
+1979:Godfrey N. Hounsfield
+1979:Allan M. Cormack
+1980:George D. Snell
+1980:Jean Dausset
+1980:Baruj Benacerraf
+1981:Torsten N. Wiesel
+1981:David H. Hubel
+1981:Roger W. Sperry
+1982:John R. Vane
+1982:Bengt I. Samuelsson
+1982:Sune K. Bergström
+1983:Barbara McClintock
+1984:César Milstein
+1984:Georges J.F. Köhler
+1984:Niels K. Jerne
+1985:Joseph L. Goldstein
+1985:Michael S. Brown
+1986:Rita Levi-Montalcini
+1986:Stanley Cohen
+1987:Susumu Tonegawa
+1988:George H. Hitchings
+1988:Gertrude B. Elion
+1988:Sir James W. Black
+1989:Harold E. Varmus
+1989:J. Michael Bishop
+1990:E. Donnall Thomas
+1990:Joseph E. Murray
+1991:Bert Sakmann
+1991:Erwin Neher
+1992:Edwin G. Krebs
+1992:Edmond H. Fischer
+1993:Phillip A. Sharp
+1993:Richard J. Roberts
+1994:Martin Rodbell
+1994:Alfred G. Gilman
+1995:Eric F. Wieschaus
+1995:Christiane Nüsslein-Volhard
+1995:Edward B. Lewis
+1996:Rolf M. Zinkernagel
+1996:Peter C. Doherty
+1997:Stanley B. Prusiner
+1998:Ferid Murad
+1998:Louis J. Ignarro
+1998:Robert F. Furchgott
+1999:Günter Blobel
+2000:Eric R. Kandel
+2000:Paul Greengard
+2000:Arvid Carlsson
+2001:Sir Paul M. Nurse
+2001:Tim Hunt
+2001:Leland H. Hartwell
+2002:John E. Sulston
+2002:H. Robert Horvitz
+2002:Sydney Brenner
+2003:Sir Peter Mansfield
+2003:Paul C. Lauterbur
+2004:Linda B. Buck
+2004:Richard Axel
+2005:J. Robin Warren
+2005:Barry J. Marshall
+2006:Craig C. Mello
+2006:Andrew Z. Fire
+2007:Oliver Smithies
+2007:Sir Martin J. Evans
+2007:Mario R. Capecchi
+2008:Luc Montagnier
+2008:Françoise Barré-Sinoussi
+2008:Harald zur Hausen
+2009:Jack W. Szostak
+2009:Carol W. Greider
+2009:Elizabeth H. Blackburn
+2010:Robert G. Edwards
+2011:Ralph M. Steinman
+2011:Jules A. Hoffmann
+2011:Bruce A. Beutler
+2012:Shinya Yamanaka
+2012:Sir John B. Gurdon
+2013:Thomas C. Südhof
+2013:Randy W. Schekman
+2013:James E. Rothman
+2014:Edvard I. Moser
+2014:May-Britt Moser
+2014:John O'Keefe
+2015:Youyou Tu
+2015:Satoshi Ōmura
+2015:William C. Campbell
+2016:Yoshinori Ohsumi
+2017:Michael W. Young
+2017:Michael Rosbash
+2017:Jeffrey C. Hall
